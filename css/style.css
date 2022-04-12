@@ -1253,7 +1253,7 @@ form {
     background: var(--color-1);
     border-radius: 10px;
     position: absolute;
-    right: 9;
+    right: 9px;
     top: calc(50% - 11px)
 }
 
